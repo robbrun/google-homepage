@@ -26,8 +26,7 @@ Files
 
 
 Software: 
-Visual Studio Code
-Vim
+Visual Studio Code & Vim
 
 
 OS:
