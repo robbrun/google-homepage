@@ -25,18 +25,15 @@ Files
     style.css - css stylesheet for google home page
 
 
-Software
-
+Software: 
 Visual Studio Code
 Vim
 
 
-OS
-
+OS:
 Ubuntu 18.04
 
 
-Project Source
-
+Project Source:
 From The Odin Project's curriculum
 http://www.theodinproject.com/courses/web-development-101/lessons/html-css
