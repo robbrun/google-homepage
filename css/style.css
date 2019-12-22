@@ -113,6 +113,8 @@ input[type="text"]:hover {
 #input-field {
     background: url(images/search-glass.png) no-repeat 10px center;
     background-size: 15px;
+    /*background-position-x: 8px;
+    background-position-y: 8px;*/
     background-origin: content-box;
 }
 
@@ -144,7 +146,7 @@ button:hover a{
 
 button a {
     color: #797979;
-    font-size 14px;
+    font-size: 14px;
     text-decoration: none;
 }
 
